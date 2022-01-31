@@ -14,10 +14,6 @@ def proxy_events_open(filename, service, term):
     # loop through the results
     for each_found in is_found:
         # split the results based on the space dilimeter
-        # print(each_found)
-        # each_found = re.sub(r" \(\d+\.\d+ (?:KB|MB|GB)\)", '', each_found)
-        # each_found = re.sub(r" \(\d+\d+ (?:KB|MB|GB)\)", '', each_found)
-        # print(each_found)
         sp_results = each_found.split(" ")
 
         # append the split value to the found list
