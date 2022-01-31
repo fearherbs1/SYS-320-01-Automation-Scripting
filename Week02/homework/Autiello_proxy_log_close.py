@@ -14,7 +14,7 @@ def proxy_events_close(filename, service, term):
     # loop through the results
     for each_found in is_found:
 
-        # regex matches to remove the (x.xx KB) within each result
+        # regex matches to remove the (x.xx KB/MB/GB) within each result
         each_found = re.sub(r" \(\d+\.\d+ (?:KB|MB|GB)\)", '', each_found)
         each_found = re.sub(r" \(\d+\d+ (?:KB|MB|GB)\)", '', each_found)
 
