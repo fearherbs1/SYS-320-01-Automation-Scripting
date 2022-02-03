@@ -22,13 +22,13 @@ def urlHausOpen(filename, searchTerm):
             # Fix: indentation
             next(contents)
 
-        # Loop through all of our search terms and do the following.
-        # Fix: indentation, remove "s" from "searchTerms"
-        for keyword in searchTerm:
+        # Loop through each line within the csv data we imported.
+        # Fix: Indentation, swap with "for keyword in searchTerm"
+        for eachLine in contents:
 
-            # Loop through each line within the csv data we imported.
-            # Fix: Indentation
-            for eachLine in contents:
+            # Loop through all of our search terms and do the following.
+            # Fix: indentation, remove "s" from "searchTerms", swap with "for eachLine in contents"
+            for keyword in searchTerm:
 
                 # Use regex to search through the URL within the selected line of the csv file for the keyword.
                 # Fix: remove the unnecessary "r" and "+", Indentation
@@ -46,12 +46,12 @@ def urlHausOpen(filename, searchTerm):
                     # Fix: indentation
                     the_url = eachLine[2].replace("http", "hxxp")
 
-                    # Set the abuse.ch link that corrosponds to the matched url to a variable.
+                    # Set the abuse.ch link that corresponds to the matched url to a variable.
                     # Fix: indentation, replace 4 with 6 to print info link
-                    the_src = eachLine[6]
+                    the_src = eachLine[7]
 
-                    # Print out our results nice and pretty with *'s in betweeen them. The .format here places the
-                    # value of the variuables within each "{}"
+                    # Print out our results nice and pretty with *'s in between them. The .format here places the
+                    # value of the variables within each "{}"
                     # Fix: indentation, add missing "{}"s to print statement, change "," to ".", replace "+" with "*",
                     # concatenate printing of *'s with a "+" and place these *'s outside of the format "()"s
                     print("""
