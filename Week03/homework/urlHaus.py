@@ -47,7 +47,8 @@ def urlHausOpen(filename, searchTerm):
                     the_url = eachLine[2].replace("http", "hxxp")
 
                     # Set the abuse.ch link that corresponds to the matched url to a variable.
-                    # Fix: indentation, replace 4 with 6 to print info link
+                    # Fix: indentation, replace 4 with 6 to print info link in test data and
+                    # 7 to print it in the real data
                     the_src = eachLine[7]
 
                     # Print out our results nice and pretty with *'s in between them. The .format here places the
