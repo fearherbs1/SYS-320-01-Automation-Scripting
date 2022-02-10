@@ -1,0 +1,15 @@
+---
+shell_attacks:
+ winShell: "cmd.exe"
+ nixShell: "/bin/sh"
+ webShell: "c99.php"
+
+---
+sql_inject:
+ phpmyadmin: "/phpmyadmin"
+ mysql: "mysql"
+
+---
+dir_traverse:
+ etc_passwd: "/etc/passwd"
+ dot_slash: "\\.\\.\\.\\."
