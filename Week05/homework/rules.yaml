@@ -1,0 +1,21 @@
+---
+shell_attacks:
+ Windows_Shell: "cmd.exe"
+ Linux_Shell: "/bin/sh"
+ Web_Shell: "c99.php"
+
+---
+sql_inject:
+ phpmyadmin: "/phpmyadmin"
+ mysql: "mysql"
+
+---
+dir_traverse:
+ etc_passwd: "/etc/passwd"
+ dot_slash: "/../../../"
+
+---
+potential_content_management:
+ Joomla: "joomla"
+ WordPress: "wordpress"
+ xmlrpc: "xmlrpc"
