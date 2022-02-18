@@ -43,7 +43,7 @@ def load_files(directory):
 
 
 def load_ruleset(ruleset):
-    # intit our rules list
+    # init our rules list
     rules = []
     # init our selected ruleset dict
     selected_ruleset = {}
@@ -166,13 +166,15 @@ if __name__ == "__main__":  # our main function
                                         f.write(formatted_detection_f)
                                 # if no output file, use fancy colors to print to screen
                                 else:
+                                    # Make the string that caused the detection red.
+                                    red_args = arguments.replace(detection, f"{C.FAIL}{detection}{C.WARNING}")
                                     formatted_detection = f"==================================================" \
                                                           f"====================\n" \
                                                           f"{C.FAIL}Detection: {C.WARNING}{current_rule}{C.ENDC}\n\n" \
                                                           f"{C.OKCYAN}Description: {C.WARNING}" \
                                                           f"{textwrap.fill(description)}{C.ENDC}\n\n" \
                                                           f"{C.HEADER}References: {C.WARNING}{*references,}{C.ENDC}\n" \
-                                                          f"  {C.OKGREEN}Arguments: {C.WARNING}{arguments}{C.ENDC}\n" \
+                                                          f"  {C.OKGREEN}Arguments: {C.WARNING}{red_args}{C.ENDC}\n" \
                                                           f"  {C.OKBLUE}Hostname: {C.WARNING}{hostname}{C.ENDC}\n" \
                                                           f"  {C.OKCYAN}Name: {C.WARNING}{name}{C.ENDC}\n" \
                                                           f"  {C.HEADER}Path: {C.WARNING}{path}{C.ENDC}\n" \
