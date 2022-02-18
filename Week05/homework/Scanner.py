@@ -1,9 +1,9 @@
 import argparse
 import os
+import textwrap
 import yaml
-import re
 import csv
-import pandas
+
 
 class C:
     """
@@ -50,7 +50,7 @@ def load_ruleset(ruleset):
     # open our rules.yaml file
     with open("rules.yaml", 'r') as f:
         try:
-            # uoad all of the books within the yaml file and append them to the rules list
+            # Load all the books within the yaml file and append them to the rules list
             for rule in yaml.load_all(f, Loader=yaml.SafeLoader):
                 rules.append(rule)
         # if there is a yaml error catch it and print the error
@@ -90,7 +90,9 @@ if __name__ == "__main__":  # our main function
     parser.add_argument("-d", "--directory", required=True, help="Directory with your logs.")
 
     # ruleset argument
-    parser.add_argument("-r", "--rules", required=True, help="Ruleset from rules.yaml that you would like to use. use \"all\" to use all of the rules found in the rules.yaml file.")
+    parser.add_argument("-r", "--rules", required=True, help="Ruleset from rules.yaml that you would like to use. use "
+                                                             "\"all\" to use all of the rules found in the rules.yaml"
+                                                             " file.")
 
     # save to file arg
     parser.add_argument("-o", "--output", required=False, help="Output results to a file rather than the screen.")
@@ -116,12 +118,6 @@ if __name__ == "__main__":  # our main function
     else:
         rule_def = [rules]
 
-    #print(rule_def)
-
-
-    # create an empty list to store our output if it is going to be saved to a file
-    file_output_list = []
-
     # Loop through our list of files
     for file in files:
         # open our file and convert it into a dict & force utf-8 encoding
@@ -140,47 +136,48 @@ if __name__ == "__main__":  # our main function
                 username = line["username"]
                 # loop through all of our rules that were selected
                 for rule in rule_def:
+                    # get the current rule name
+                    current_rule = list(rule.keys())[0]
                     # loop through all of that rules attributes
                     for rule_name, attributes in rule.items():
                         # Save all these attributes to values we can use
                         description = attributes["Description"]
                         references = attributes["References"]
                         detections = attributes["Detections"]
+                        # loop through all of our detections
                         for detection in detections:
+                            # Check if the detection string is within the arguments from the log
                             if detection in arguments:
-                                print(path)
-
-
-
-
-
-
-
-
-
-
-
-    #         for csv in log_lines:
-    #             # loop through all of our rules
-    #             for rule, definition in rule_def.items():
-    #                 # search the file for out match
-    #                 if re.search(definition, log_line):
-    #                     # if output file is defined, save the match to our output list
-    #                     if output_f:
-    #                         match = f"Rule: {rule} Has been matched in Ruleset: {rule_set} Within File: {file}\n" \
-    #                                 f"Matched Log Entry:{log_line}\n\n"
-    #                         file_output_list.append(match)
-    #                     # if no output is defined print the results to the console with color coding
-    #                     else:
-    #                         log_line = re.sub(definition, f"{C.FAIL}{definition}{C.ENDC}", log_line)
-    #                         print(f"{C.WARNING}Rule: {C.FAIL}{rule}{C.WARNING} Has been matched in Ruleset: {C.WARNING}"
-    #                               f"{rule_set} {C.WARNING} Within File: {C.OKCYAN}{file}{C.ENDC}\n"
-    #                               f"{C.OKBLUE}Matched Log Entry:{C.ENDC} {log_line}\n\n")
-    #
-    # # if an ouput file is provided and matches exist
-    # if output_f and match:
-    #     # open our output file
-    #     with open(output_f, "w+") as f:
-    #         # loop through our list and write all of our matches
-    #         for match in file_output_list:
-    #             f.write(match)
+                                # if the output file is specified output to it
+                                if output_f:
+                                    formatted_detection_f = f"===========================================" \
+                                                            f"===========================\n" \
+                                                            f"Detection: {current_rule}\n\n" \
+                                                            f"Description: {textwrap.fill(description)}\n\n" \
+                                                            f"References: {*references,}\n" \
+                                                            f"  Arguments: {arguments}\n" \
+                                                            f"  Hostname: {hostname}\n" \
+                                                            f"  Name: {name}\n" \
+                                                            f"  Path: {path}\n" \
+                                                            f"  Pid: {pid}\n" \
+                                                            f"  Username: {username}\n\n\n"
+                                    # Open the file to save the output
+                                    with open(output_f, "a+", encoding='utf-8') as f:
+                                        f.write(formatted_detection_f)
+                                # if no output file, use fancy colors to print to screen
+                                else:
+                                    formatted_detection = f"==================================================" \
+                                                          f"====================\n" \
+                                                          f"{C.FAIL}Detection: {C.WARNING}{current_rule}{C.ENDC}\n\n" \
+                                                          f"{C.OKCYAN}Description: {C.WARNING}" \
+                                                          f"{textwrap.fill(description)}{C.ENDC}\n\n" \
+                                                          f"{C.HEADER}References: {C.WARNING}{*references,}{C.ENDC}\n" \
+                                                          f"  {C.OKGREEN}Arguments: {C.WARNING}{arguments}{C.ENDC}\n" \
+                                                          f"  {C.OKBLUE}Hostname: {C.WARNING}{hostname}{C.ENDC}\n" \
+                                                          f"  {C.OKCYAN}Name: {C.WARNING}{name}{C.ENDC}\n" \
+                                                          f"  {C.HEADER}Path: {C.WARNING}{path}{C.ENDC}\n" \
+                                                          f"  {C.OKGREEN}Pid: {C.WARNING}{pid}{C.ENDC}\n" \
+                                                          f"  {C.OKBLUE}Username: {C.WARNING}{username}{C.ENDC}\n\n"
+                                    print(formatted_detection)
+                            else:
+                                pass
