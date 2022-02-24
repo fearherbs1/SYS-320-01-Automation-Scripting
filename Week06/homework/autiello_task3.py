@@ -6,7 +6,7 @@ import os
 thePass = getpass(prompt="Please Enter your SSH Password: \n\n")
 
 # Host Information
-host = "184.171.154.24"
+host = "184.171.154.66"
 port = 22
 username = "systest"
 password = thePass
