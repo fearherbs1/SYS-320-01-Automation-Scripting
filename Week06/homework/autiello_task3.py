@@ -34,7 +34,7 @@ sftp.put(file, "/usr/bin/fs.py")
 sftp.close()
 
 # set up our command:
-command = "sudo -s python3 ./usr/bin/fs.py -d '/usr/bin' >> /usr/bin/fs-output.body"
+command = "sudo -s python3 ./usr/bin/fs.py -d '/usr/bin' > /usr/bin/fs-output.body"
 
 # run our command that runs the script
 stdin, stdout, stderr = ssh.exec_command(command)
