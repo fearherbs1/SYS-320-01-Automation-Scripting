@@ -203,13 +203,10 @@ root       74639       2  0 15:22 ?        00:00:00 [jfsCommit]
 root       74640       2  0 15:22 ?        00:00:00 [jfsCommit]
 root       74641       2  0 15:22 ?        00:00:00 [jfsSync]
 root       76815       2  0 16:26 ?        00:00:04 [kworker/0:1-events]
-root       77426       2  0 16:51 ?        00:00:00 [kworker/u256:0-events_power_efficient]
 systemd+   77560       1  0 16:54 ?        00:00:00 /lib/systemd/systemd-networkd
-root       77680       2  0 16:54 ?        00:00:00 [kworker/1:4-rcu_par_gp]
 root       78529       2  0 17:06 ?        00:00:00 [kworker/0:2-events]
 root       78541       2  0 17:07 ?        00:00:00 [kworker/u256:1-events_power_efficient]
 root       78662       2  0 17:11 ?        00:00:00 [kworker/0:0-events]
-root       78669       2  0 17:12 ?        00:00:00 [kworker/1:0-rcu_gp]
 root       78818       2  0 17:12 ?        00:00:00 [kworker/u256:2-events_power_efficient]
 root       78869       2  0 17:13 ?        00:00:00 [kworker/0:3-events]
 root       78870    1591  0 17:13 ?        00:00:00 sshd: systest [priv]
@@ -219,10 +216,11 @@ systest    79053   78955  0 17:14 ?        00:00:00 sshd: systest@pts/0
 systest    79054   79053  0 17:14 pts/0    00:00:00 -bash
 root       79157       2  0 17:14 ?        00:00:00 [kworker/1:2-events]
 root       79461       1  0 17:16 ?        00:00:00 /usr/lib/packagekit/packagekitd
-root       79670       2  0 17:16 ?        00:00:00 [kworker/0:4-events]
+root       79670       2  0 17:16 ?        00:00:00 [kworker/0:4+usb_hub_wq]
 root       79872    1591  0 17:16 ?        00:00:00 sshd: systest [priv]
 systest    79971   79872  0 17:16 ?        00:00:00 sshd: systest@notty
-systest    79989   79971  0 17:17 ?        00:00:00 ps -ef
+root       80051       2  0 17:19 ?        00:00:00 [kworker/u256:0-events_power_efficient]
+systest    80080   79971  0 17:20 ?        00:00:00 ps -ef
 #### End ps -ef ####
 
 #### Begin netstat -an --inet ####
@@ -231,11 +229,9 @@ Active Internet connections (servers and established)
 Proto Recv-Q Send-Q Local Address           Foreign Address         State      
 tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN     
 tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
-tcp        0      0 184.171.154.24:43894    91.189.91.39:80         TIME_WAIT  
 tcp        0      0 192.168.46.128:22       192.168.46.1:52122      ESTABLISHED
 tcp        0   1376 192.168.46.128:22       192.168.46.1:52121      ESTABLISHED
 tcp        0    112 184.171.154.24:22       184.171.154.61:52183    ESTABLISHED
-tcp        0      0 184.171.154.24:43896    91.189.91.39:80         TIME_WAIT  
 udp        0      0 127.0.0.53:53           0.0.0.0:*                          
 udp        0      0 184.171.154.24:68       0.0.0.0:*                          
 #### End netstat -an --inet ####
