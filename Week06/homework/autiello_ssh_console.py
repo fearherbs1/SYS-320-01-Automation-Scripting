@@ -20,19 +20,22 @@ except paramiko.AuthenticationException:
 
 # check if output file exists
 if os.path.exists("output.txt"):
+    # if it does ask the user if they want to delete it
     delfile = input("Output.txt already exists. Delete it? (y/n)\n\n")
+    # if yes, delete it
     if delfile == "y":
         os.remove("output.txt")
         print("Old output.txt Deleted.")
-
+    # if no, exit and keep the file
     elif delfile == "n":
         print("output file not deleted exiting...")
         exit(0)
+    # if anything else, exit the program
     else:
         print("invalid answer. exiting...")
         exit(0)
 
-# Run a list of commands
+# Our lists of commands to run
 test_commands = ["ps -ef", "netstat -an --inet", "last -adx", "cut -d: -f1 /etc/passwd"]
 
 list_bind_files_commands = ["cat /etc/resolv.conf", "cat /etc/motd", "cat /etc/issue", "cat /etc/passwd",
@@ -63,7 +66,7 @@ package_sources_commands = ["cat /etc/apt/sources.list"]
 important_files_commands = ["ls -alR | grep ^d", "find /var -type d", "ls -dl `find /var -type d`",
                             "ls -dl `find /var -type d` | grep -v root", "find /var ! -user root -type d -ls"]
 
-
+# define a function that can run our commands
 def run_commands(commands):
 
     for eachCMD in commands:
@@ -89,5 +92,5 @@ def run_commands(commands):
             f.write(cmd_output)
     ssh.close()
 
-
+# call our function with some of the test commands.
 run_commands(test_commands)
