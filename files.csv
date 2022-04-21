@@ -1,0 +1,421 @@
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","ModeWithoutHardLink","VersionInfo","BaseName","Target","LinkType","Length","DirectoryName","Directory","IsReadOnly","FullName","Extension","Name","Exists","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","LinkTarget","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Audits\Commercial_audit_checklist_tool.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Audits","Commercial_audit_checklist_tool.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Audits\Commercial_audit_checklist_tool.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Commercial_audit_checklist_tool",,,"221129","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Audits","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Audits","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Audits\Commercial_audit_checklist_tool.xlsx",".xlsx","Commercial_audit_checklist_tool.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 9:54:45 AM","7/14/2016 1:54:45 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","DoD_Master_Office_2010_Settings_v1.0.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DoD_Master_Office_2010_Settings_v1.0",,,"319973","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx",".xlsx","DoD_Master_Office_2010_Settings_v1.0.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:02:54 PM","7/14/2016 4:02:54 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","Microsoft Office 2010 Service Pack 1 Changes.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft Office 2010 Service Pack 1 Changes",,,"40225","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx",".xlsx","Microsoft Office 2010 Service Pack 1 Changes.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:02:26 PM","7/14/2016 4:02:26 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","thoughtfarmer-intranet-content-migration-worksheet.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","thoughtfarmer-intranet-content-migration-worksheet",,,"30931","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx",".xlsx","thoughtfarmer-intranet-content-migration-worksheet.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:02:35 PM","7/14/2016 4:02:35 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\CoverLetters\the-cover-letter.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\CoverLetters","the-cover-letter.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\CoverLetters\the-cover-letter.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","the-cover-letter",,,"22892","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\CoverLetters","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\CoverLetters","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\CoverLetters\the-cover-letter.docx",".docx","the-cover-letter.docx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","1/22/2017 9:22:39 PM","1/23/2017 2:22:39 AM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","3yr-Project-Financial-Report-Template.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","3yr-Project-Financial-Report-Template",,,"145129","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx",".xlsx","3yr-Project-Financial-Report-Template.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","1/22/2017 8:02:24 PM","1/23/2017 1:02:24 AM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","82808-Annual Report Financial Overview Template and Graphs.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","82808-Annual Report Financial Overview Template and Graphs",,,"3079772","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx",".xlsx","82808-Annual Report Financial Overview Template and Graphs.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","1/22/2017 8:02:41 PM","1/23/2017 1:02:41 AM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","FinancialStatementFY12Q2.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","FinancialStatementFY12Q2",,,"78249","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx",".xlsx","FinancialStatementFY12Q2.xlsx","True","1/23/2017 1:03:10 PM","1/23/2017 6:03:10 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:02:21 PM","7/14/2016 4:02:21 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","GPAF IMP 067 Annual Financial Report 300414.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","GPAF IMP 067 Annual Financial Report 300414",,,"184360","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx",".xlsx","GPAF IMP 067 Annual Financial Report 300414.xlsx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","1/22/2017 8:03:25 PM","1/23/2017 1:03:25 AM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","SBR FY 2016 Annual Report Template 7-21-16 Final",,,"47716","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx",".xlsx","SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","1/22/2017 8:02:22 PM","1/23/2017 1:02:22 AM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\2010AdoptedScienceStandards.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","2010AdoptedScienceStandards.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\2010AdoptedScienceStandards.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","2010AdoptedScienceStandards",,,"528847","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\2010AdoptedScienceStandards.pdf",".pdf","2010AdoptedScienceStandards.pdf","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 9:53:04 AM","7/14/2016 1:53:04 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\cle-other-science.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","cle-other-science.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\cle-other-science.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cle-other-science",,,"491735","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\cle-other-science.pdf",".pdf","cle-other-science.pdf","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 9:52:44 AM","7/14/2016 1:52:44 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","K-12_Science_Performance_Expectations_v5_496901_7.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","K-12_Science_Performance_Expectations_v5_496901_7",,,"1017137","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf",".pdf","K-12_Science_Performance_Expectations_v5_496901_7.pdf","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 9:52:53 AM","7/14/2016 1:52:53 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\nssmic15.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","nssmic15.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\nssmic15.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","nssmic15",,,"71009","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\nssmic15.docx",".docx","nssmic15.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:02:03 PM","7/14/2016 4:02:03 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014",,,"1167470","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf",".pdf","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 10:46:10 AM","7/14/2016 2:46:10 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\stds_scienceKinder.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","stds_scienceKinder.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\stds_scienceKinder.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","stds_scienceKinder",,,"61430","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Sciences\stds_scienceKinder.pdf",".pdf","stds_scienceKinder.pdf","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 9:49:37 AM","7/14/2016 1:49:37 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\APA-Citation-Work-Cited1.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","APA-Citation-Work-Cited1.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\APA-Citation-Work-Cited1.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","APA-Citation-Work-Cited1",,,"49920","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\APA-Citation-Work-Cited1.docx",".docx","APA-Citation-Work-Cited1.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:01:45 PM","7/14/2016 4:01:45 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Index_Table_Contents.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","Index_Table_Contents.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Index_Table_Contents.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Index_Table_Contents",,,"60765","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Index_Table_Contents.xlsx",".xlsx","Index_Table_Contents.xlsx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 10:47:04 AM","7/14/2016 2:47:04 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","Microsoft-Word-Trifold-Brochure-Template.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft-Word-Trifold-Brochure-Template",,,"79583","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx",".docx","Microsoft-Word-Trifold-Brochure-Template.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:01:47 PM","7/14/2016 4:01:47 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\NYCProject-RACI_v2.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","NYCProject-RACI_v2.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\NYCProject-RACI_v2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","NYCProject-RACI_v2",,,"37554","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\NYCProject-RACI_v2.xlsx",".xlsx","NYCProject-RACI_v2.xlsx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:02:40 PM","7/14/2016 4:02:40 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\rgo_template.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","rgo_template.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\rgo_template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","rgo_template",,,"8362477","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\rgo_template.docx",".docx","rgo_template.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:01:39 PM","7/14/2016 4:01:39 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Template File_MLA Template.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","Template File_MLA Template.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Template File_MLA Template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Template File_MLA Template",,,"20574","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Template File_MLA Template.docx",".docx","Template File_MLA Template.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:00:58 PM","7/14/2016 4:00:58 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\template-instructions1.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","template-instructions1.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\template-instructions1.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","template-instructions1",,,"1278477","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\template-instructions1.docx",".docx","template-instructions1.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:01:25 PM","7/14/2016 4:01:25 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\trans_jour.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","trans_jour.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\trans_jour.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","trans_jour",,,"519344","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\trans_jour.docx",".docx","trans_jour.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:01:21 PM","7/14/2016 4:01:21 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Video.docx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","Video.docx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Video.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Video",,,"11491","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Video.docx",".docx","Video.docx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 11:12:20 AM","7/14/2016 3:12:20 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","Windows 10 ADMX spreadsheet.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Windows 10 ADMX spreadsheet",,,"659768","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx",".xlsx","Windows 10 ADMX spreadsheet.xlsx","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 9:54:56 AM","7/14/2016 1:54:56 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\pg17987.txt","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","pg17987.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\pg17987.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","pg17987",,,"65999","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\pg17987.txt",".txt","pg17987.txt","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 10:46:34 AM","7/14/2016 2:46:34 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\pg23691.txt","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","pg23691.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\pg23691.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","pg23691",,,"692692","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\pg23691.txt",".txt","pg23691.txt","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 10:46:40 AM","7/14/2016 2:46:40 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\README.txt","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","README.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\README.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","README",,,"5383","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\README.txt",".txt","README.txt","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 10:46:45 AM","7/14/2016 2:46:45 PM",,"Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\robots.txt","Microsoft.PowerShell.Core\FileSystem::C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","robots.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\robots.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","robots",,,"4146","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments","False","C:\Github-Repos\SYS-320-01-Automation-Scripting\Week13\homework\Documents\TextDocuments\robots.txt",".txt","robots.txt","True","1/23/2017 1:03:11 PM","1/23/2017 6:03:11 PM","4/20/2022 8:11:37 PM","4/21/2022 12:11:37 AM","7/14/2016 12:10:35 PM","7/14/2016 4:10:35 PM",,"Archive"
